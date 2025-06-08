@@ -13,7 +13,7 @@ User-friendly UI/UX for seamless experience.
 
 # Tech Stack
 
-Frontend: React.js, Tailwind CSS
-Backend: Node.js
-Database: MongoDB or MySQL
+-Frontend: React.js, Tailwind CSS
+-Backend: Node.js
+-Database: MongoDB or MySQL
 
